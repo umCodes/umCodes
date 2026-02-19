@@ -12,7 +12,7 @@ Currently leveling up in **system design** and **DevOps** while shipping side pr
 `TypeScript` `Node.js` `Python` `JavaScript`
 
 **Frontend**
-`React` `React Native`
+`React` `React Native` `Tailwind` `ChakraUI`
 
 **Backend & APIs**
 `Express` `REST APIs`
